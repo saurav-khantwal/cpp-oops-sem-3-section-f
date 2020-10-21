@@ -59,7 +59,7 @@ public:
 
     int getperimeter_rectangle()
     {
-        return 2*(a*b);
+        return 2*(a+b);
     }
 
     int getarea_rectangle()
